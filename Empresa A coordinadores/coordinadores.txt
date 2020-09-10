@@ -1,1 +1,3 @@
 Titulos para coordinadores
+
+Este es el primer párrafo para explicar función coordinadores
