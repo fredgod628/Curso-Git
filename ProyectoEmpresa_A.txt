@@ -3,3 +3,5 @@ Titulo para probar git
 Parte del desarrollo llevado a cabo para seguir
 comprobando la eficacia de git
 
+Probando: Sincronización desde la consola command mediante el comando git pull 
+y actualizando desde github este archivo  
